@@ -1,4 +1,0 @@
-1,Khushboo,23,16
-2,Sachin,21,14
-3,Ragib,26,194,Aliya,22,12
-4,Aliya,22,12
